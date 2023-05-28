@@ -1,0 +1,1 @@
+comando de inicialização do docker compose: docker compose -f docker-composer-exercicio.yml up
